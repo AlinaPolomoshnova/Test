@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="indent_small">8dp</dimen>
+    <dimen name="indent_middle">16dp</dimen>
+    <dimen name="text_big">24sp</dimen>
+    <dimen name="card_height">120dp</dimen>
+    <dimen name="fab_size">56dp</dimen>
+</resources>
